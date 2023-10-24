@@ -23,8 +23,6 @@
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam magni placeat voluptate officiis vel modi porro illum laudantium eos ullam iusto nam, aut fuga id provident dolorum accusantium vero saepe repellat similique consequuntur! Tenetur obcaecati quasi animi nulla, impedit necessitatibus aut architecto voluptates molestiae voluptatibus consectetur, omnis nostrum expedita asperiores?</p>
     </div>
     </div>
-</body>
-    <style>
         .box{
     background-color: lightgray;
     border:2px solid black;
@@ -33,7 +31,7 @@
     margin-top: 20px;
     display: inline-block;
 }
-
+<style>
 #box1 h3{
     background-color: pink;
     border: 2px solid black;
@@ -63,4 +61,5 @@
 
 
     </style>
+    </body>
 </html>
