@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <body>
@@ -25,4 +24,43 @@
     </div>
     </div>
 </body>
+    <style>
+        .box{
+    background-color: lightgray;
+    border:2px solid black;
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+#box1 h3{
+    background-color: pink;
+    border: 2px solid black;
+    width: 100px;
+    height: 20px;
+    margin-left:298px;
+}
+
+#box2 h3{
+    background-color: red;
+    border: 2px solid black;
+    width: 100px;
+    height: 20px;
+    margin-left:298px;
+}
+
+#box3 h3{
+    background-color: yellow;
+    border: 2px solid black;
+    width: 100px;
+    height: 20px;
+    margin-left:298px;
+}
+.product{
+    text-align: center;
+}
+
+
+    </style>
 </html>
